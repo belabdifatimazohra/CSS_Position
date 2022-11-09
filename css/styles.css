@@ -62,3 +62,14 @@ p {
   top: 40%;
   left: 10px;
 }
+a:hover{
+  color: red;
+}
+.container{
+  background-color: #DEB6AB;
+  border: solid 2px #7b113a;
+  padding: 25px;
+  margin: 25px;
+  width: 350px;
+  height: 100px;
+}
